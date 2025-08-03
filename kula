@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Samowystarczalny Dom Kula</title>
+  <style>
+    body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 2rem; background: #f8f8f8; }
+    h1, h2, h3 { color: #2c3e50; }
+    section { margin-bottom: 2rem; }
+    code { background: #eee; padding: 0.2rem 0.4rem; border-radius: 4px; }
+    .image { text-align: center; margin: 2rem 0; }
+    .image img { max-width: 100%; border-radius: 10px; }
+    footer { font-size: 0.9rem; color: #777; text-align: center; margin-top: 4rem; }
+  </style>
+</head>
+<body>
+  <h1>Projekt: Samowystarczalny Sferyczny Dom z Tufu Wulkanicznego</h1>
+
+  <section>
+    <h2>1. Założenia Ogólne</h2>
+    <ul>
+      <li><strong>Forma:</strong> Kula</li>
+      <li><strong>Średnica:</strong> 10 metrów</li>
+      <li><strong>Materiał:</strong> Tuf wulkaniczny, powłoka absorbująca energię</li>
+      <li><strong>Energia:</strong> Słońce, wiatr, deszcz</li>
+      <li><strong>Funkcjonalność:</strong> Miejsce do bycia, nie działania</li>
+      <li><strong>Pojemność:</strong> Maksymalnie 2 osoby</li>
+      <li><strong>Prywatność:</strong> Każda kula jako osobna jednostka</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>2. Warstwowa Konstrukcja</h2>
+    <ol>
+      <li>Powłoka fotosyntetyczna</li>
+      <li>Tuf wulkaniczny (nośna i izolacyjna warstwa)</li>
+      <li>Membrana wodoodporna</li>
+      <li>Warstwa oddychająca z włókien naturalnych</li>
+      <li>Wykończenie wewnętrzne (glina, drewno)</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>3. Systemy i Energia</h2>
+    <ul>
+      <li><strong>Woda:</strong> Deszczówka + filtracja</li>
+      <li><strong>Wentylacja:</strong> Naturalny przepływ przez tuf</li>
+      <li><strong>Energia:</strong> Słoneczna i wiatrowa (mikroturbiny)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>4. Wnętrze</h2>
+    <ul>
+      <li><strong>Sen:</strong> Drewniana platforma / materac dla 2 osób</li>
+      <li><strong>Higiena:</strong> Kabina z obiegiem szarej wody</li>
+      <li><strong>Światło:</strong> Bioluminescencja + otwory górne</li>
+      <li><strong>Wejście:</strong> Reaktywne pęknięcie w strukturze</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>5. Komunikacja</h2>
+    <ul>
+      <li><strong>Fizyczna:</strong> Połączenia energetyczne i światłowodowe</li>
+      <li><strong>Informacyjna:</strong> Kolorowe sygnały świetlne i dźwiękowe</li>
+      <li><strong>Eksperymentalna:</strong> Komunikacja mentalna EEG przez rezonans pola</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>6. Społeczność i Struktura</h2>
+    <ul>
+      <li>Kazda kula autonomiczna</li>
+      <li>Brak hierarchii</li>
+      <li>Wspólna infrastruktura energetyczno-informacyjna</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>7. Kosztorys Wstępny</h2>
+    <p>Przy pracy wspólnotowej: 20 000 – 30 000 PLN</p>
+  </section>
+
+  <section class="image">
+    <img src="sfera-prototyp.png" alt="Wizualizacja prototypu kuli" />
+  </section>
+
+  <footer>
+    <p>Projekt autorski. Budowa kul na podstawie tego projektu bez pisemnej zgody autora jest zabroniona.</p>
+  </footer>
+</body>
+</html>
+
